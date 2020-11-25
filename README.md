@@ -24,4 +24,9 @@ Some Data Projects
 
 # [Project 2 : Titanic: Machine Learning from Disaster](https://github.com/roywong96/Titanic/blob/main/Titanic_.ipynb)
 
-- Made 
+- Two sets of data (i.e. Train and Test set) concatenated and preprocessed before modeling 
+- Removed outliers and imputed any missing values from the data.
+- Optimized and classified using Logistic Regression, K Neighbors , SVC Linear, SVC RBF, Gaussian NB, Decision Tree, Random Forest
+- Plot the Bar graph of the Survivability of the passengers on the test data based on the trained.
+
+
