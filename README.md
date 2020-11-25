@@ -15,7 +15,7 @@
     - What are the majority race of the shooters?
     - How many school shootings have been since 1982?
 
-![](https://github.com/roywong96/Projects/blob/main/Images/Casualties.png)
+![](Images/Casualties.png)
 
 # [Project 2 : Titanic: Machine Learning from Disaster](https://github.com/roywong96/Titanic/blob/main/Titanic_.ipynb)
 
@@ -25,4 +25,4 @@
 - Plot the Bar graph of the Survivability of the passengers on the test data based on the trained.
 
 
-![](https://github.com/roywong96/Projects/blob/main/Images/Survival.png)
+![](Images/Survival.png)
