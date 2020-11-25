@@ -30,3 +30,4 @@ Some Data Projects
 - Plot the Bar graph of the Survivability of the passengers on the test data based on the trained.
 
 
+![](https://github.com/roywong96/Projects/blob/main/Images/Survival.png)
