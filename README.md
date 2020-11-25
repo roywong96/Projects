@@ -1,8 +1,3 @@
-# Projects
-Some Data Projects 
-
-
-
 # [Project 1 : Mass Shootings in the United States](https://github.com/roywong96/Shooting_Analysis/blob/main/ShootingAnalysis.ipynb)
 
 - Obtaining insight from the Data by MotherJones 
