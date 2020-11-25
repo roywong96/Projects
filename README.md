@@ -21,8 +21,7 @@
 
 - Two sets of data (i.e. Train and Test set) concatenated and preprocessed before modeling 
 - Removed outliers and imputed any missing values from the data.
-- Optimized and classified using Logistic Regression, K Neighbors , SVC Linear, SVC RBF, Gaussian NB, Decision Tree, Random Forest
-- Plot the Bar graph of the Survivability of the passengers on the test data based on the trained.
-
+- Optimized and classified using Logistic Regression, K Neighbors Classifier, Support Vector Classification Linear and RBF, Gaussian NB, Decision Tree Regressor, Random Forest Classifier
+- Plot results using Bar graph of the Survivability of the passengers on the test data based on the trained.
 
 ![](Images/Survival.png)
