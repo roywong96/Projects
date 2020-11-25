@@ -1,4 +1,14 @@
-# [Project 1 : Mass Shootings in the United States](https://github.com/roywong96/Shooting_Analysis/blob/main/ShootingAnalysis.ipynb)
+# [Project 1 : Titanic: Machine Learning from Disaster](https://github.com/roywong96/Titanic/blob/main/Titanic_.ipynb)
+
+- Two sets of data (i.e. Train and Test set) concatenated and preprocessed before modeling 
+- Removed outliers and imputed any missing values from the data.
+- Optimized and classified using Logistic Regression, K Neighbors Classifier, Support Vector Classification Linear and RBF, Gaussian NB, Decision Tree Regressor, Random Forest Classifier
+- Plot results using Bar graph of the Survivability of the passengers on the test data based on the trained.
+
+![](Images/Survival.png)
+
+
+# [Project 2 : Mass Shootings in the United States](https://github.com/roywong96/Shooting_Analysis/blob/main/ShootingAnalysis.ipynb)
 
 - Obtaining insight from the Data by MotherJones 
 - This research is focused on indiscriminate rampages in public places resulting in four or more victims killed by the attacker.
@@ -17,11 +27,4 @@
 
 ![](Images/Casualties.png)
 
-# [Project 2 : Titanic: Machine Learning from Disaster](https://github.com/roywong96/Titanic/blob/main/Titanic_.ipynb)
 
-- Two sets of data (i.e. Train and Test set) concatenated and preprocessed before modeling 
-- Removed outliers and imputed any missing values from the data.
-- Optimized and classified using Logistic Regression, K Neighbors Classifier, Support Vector Classification Linear and RBF, Gaussian NB, Decision Tree Regressor, Random Forest Classifier
-- Plot results using Bar graph of the Survivability of the passengers on the test data based on the trained.
-
-![](Images/Survival.png)
