@@ -8,7 +8,7 @@
 - Plot results using Bar graph of the Survivability of the passengers on the test data based on the trained.
 - Accurately predicted 77.9% of the test set.
 
-![](New_Survival.png)
+![](Images/New_Survival.png)
 
 
 # [Project 2 : Mass Shootings in the United States](https://github.com/roywong96/Shooting_Analysis/blob/main/ShootingAnalysis.ipynb)
