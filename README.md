@@ -27,7 +27,7 @@
     - What are the age of the youngest / oldest shooter?
     - What are the majority race of the shooters?
     - How many school shootings have been since 1982?
-- For a more visual presentation done in ![R codes](https://rpubs.com/roywong96/684364).
+- For a more visual presentation done in [Slidy R codes](https://rpubs.com/roywong96/684364).
 
 ![](Images/Casualties.png)
 
