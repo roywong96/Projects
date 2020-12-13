@@ -11,7 +11,21 @@
 ![](Images/New_Survival.png)
 
 
-# [Project 2 : Mass Shootings in the United States](https://github.com/roywong96/Shooting_Analysis/blob/main/ShootingAnalysis.ipynb)
+# [Project 2 : Titanic: Machine Learning from Disaster](https://github.com/roywong96/RetailSales)
+
+Analysis conducted through a Model-Building Strategy to find the best fitting model for the data of monthly retail sales in millions of dollars for recreational goods in New Zealand from 1995 to 2010. Forecast for monthly retail sales for recreational goods in New Zealand for the next 10 units of time will be given at the end of the report. 
+
+- Checking for trend, seasonality and stationarity in the data through the ACF and PACF.
+- BOX-COX transformation and Differencing performed to achieve stationarity/de-trend the series. 
+- Using the EACF a the BIC table to select a few candidate models.
+- Residual Analysis to determine whether the model selected is suitable for forcasting. Final model selected through this analysis is SARIMA(1,1,2)X(1,1,1)<sub>12</sub> proceed with the forecasting.
+- Through model diagnostics, it can be proved that SARIMA(1,1,2)X(1,1,1)<sub>12</sub> is a reliable and promising model to predict as shown above.
+
+![](Images/TSA/TSA_forecast.png)
+
+
+
+# [Project 3 : Mass Shootings in the United States](https://github.com/roywong96/Shooting_Analysis/blob/main/ShootingAnalysis.ipynb)
 
 - Obtaining insight from the Data by MotherJones 
 - This research is focused on indiscriminate rampages in public places resulting in four or more victims killed by the attacker.
