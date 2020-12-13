@@ -21,7 +21,7 @@ Analysis conducted through a Model-Building Strategy to find the best fitting mo
 - Residual Analysis to determine whether the model selected is suitable for forcasting. Final model selected through this analysis is SARIMA(1,1,2)X(1,1,1)<sub>12</sub> proceed with the forecasting.
 - Through model diagnostics, it can be proven that SARIMA(1,1,2)X(1,1,1)<sub>12</sub> is a reliable and promising model to predict as follows.
 - The following plot shows the prediction of the next 10 units.
-- Report completed in R can be found [here](https://rpubs.com/roywong96/633767).
+- Complete report in R can be found [here](https://rpubs.com/roywong96/633767).
 
 ![](Images/TSA/TSA_forecast.png)
 
