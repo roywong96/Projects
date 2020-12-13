@@ -11,7 +11,7 @@
 ![](Images/New_Survival.png)
 
 
-# [Project 2 : Titanic: Machine Learning from Disaster](https://github.com/roywong96/RetailSales)
+# [Project 2 : Time-Series Analysis Retail Sales for Recreational Goods](https://github.com/roywong96/RetailSales)
 
 Analysis conducted through a Model-Building Strategy to find the best fitting model for the data of monthly retail sales in millions of dollars for recreational goods in New Zealand from 1995 to 2010. Forecast for monthly retail sales for recreational goods in New Zealand for the next 10 units of time will be given at the end of the report. 
 
@@ -19,7 +19,8 @@ Analysis conducted through a Model-Building Strategy to find the best fitting mo
 - BOX-COX transformation and Differencing performed to achieve stationarity/de-trend the series. 
 - Using the EACF a the BIC table to select a few candidate models.
 - Residual Analysis to determine whether the model selected is suitable for forcasting. Final model selected through this analysis is SARIMA(1,1,2)X(1,1,1)<sub>12</sub> proceed with the forecasting.
-- Through model diagnostics, it can be proved that SARIMA(1,1,2)X(1,1,1)<sub>12</sub> is a reliable and promising model to predict as shown above.
+- Through model diagnostics, it can be proven that SARIMA(1,1,2)X(1,1,1)<sub>12</sub> is a reliable and promising model to predict as follows.
+- The following plot shows the prediction of the next 10 units
 
 ![](Images/TSA/TSA_forecast.png)
 
