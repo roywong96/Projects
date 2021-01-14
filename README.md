@@ -10,8 +10,6 @@
 
 ![](Images/movies_proj/actors.png)
 ![](Images/movies_proj/genres.png)
-![](Images/movies_proj/genres20years.png)
-
 
 
 # [Project 2 : Time-Series Analysis Retail Sales for Recreational Goods](https://github.com/roywong96/RetailSales)
