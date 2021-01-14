@@ -1,14 +1,17 @@
-# [Project 1 : Titanic: Machine Learning from Disaster](https://github.com/roywong96/Titanic/blob/main/Titanic.ipynb)
+# [Project 1 : IMBD Ratings Predictor](https://github.com/roywong96/imbd_proj)
 
-- Two sets of data (i.e. Train and Test set) concatenated and preprocessed before modeling 
-- Removed outliers, imputed any missing values and normalized the fare to obtain more accurate predictions.
-- Engineered Features such as Family Size, Title (i.e 'Fam_Size', 'Title').
-- Optimized and classified using Logistic Regression, K Neighbors Classifier, Support Vector Classifier, Gaussian Naive Bayes, Decision Tree Classifier, Random Forest Regressor.
-- Voting Classifier is also used which takes all of the inputs and averages the results.
-- Plot results using Bar graph of the Survivability of the passengers on the test data based on the trained.
-- Accurately predicted 77.9% of the test set.
+- Created a tool that predicts movie ratings from the imbd website
+- Scraped over 2000 movies from imbd website using pyhton and Beautiful Soup
+- Engineered features from the genres to quatify the value for each genre such as drama, action, thriller, comedy, romance and so forth.
+- Optimized Linear, Lasso, Bayesian Ridge and Random Forest Regressor using GridSearchCV to reach the best model.
+- A deep dive into data leakage to prevent target from leaking into models I chose for an accurate prediction.
+- Evaluated the models using Mean Absolute Error. 
+- Obtained the score R<sup>2</sup> for all the models as movie ratings are based on human sentiments and in these scenarios, people are just harder to predict.   
 
-![](Images/New_Survival.png)
+![](Images/movies_proj/actors.png)
+![](Images/movies_proj/genres.png)
+![](Images/movies_proj/genres20years.png)
+
 
 
 # [Project 2 : Time-Series Analysis Retail Sales for Recreational Goods](https://github.com/roywong96/RetailSales)
@@ -26,8 +29,22 @@ Analysis conducted through a Model-Building Strategy to find the best fitting mo
 ![](Images/TSA/TSA_forecast.png)
 
 
+# [Project 3 : Titanic: Machine Learning from Disaster](https://github.com/roywong96/Titanic/blob/main/Titanic.ipynb)
 
-# [Project 3 : Mass Shootings in the United States](https://github.com/roywong96/Shooting_Analysis/blob/main/ShootingAnalysis.ipynb)
+- Two sets of data (i.e. Train and Test set) concatenated and preprocessed before modeling 
+- Removed outliers, imputed any missing values and normalized the fare to obtain more accurate predictions.
+- Engineered Features such as Family Size, Title (i.e 'Fam_Size', 'Title').
+- Optimized and classified using Logistic Regression, K Neighbors Classifier, Support Vector Classifier, Gaussian Naive Bayes, Decision Tree Classifier, Random Forest Regressor.
+- Voting Classifier is also used which takes all of the inputs and averages the results.
+- Plot results using Bar graph of the Survivability of the passengers on the test data based on the trained.
+- Accurately predicted 77.9% of the test set.
+
+![](Images/New_Survival.png)
+
+
+
+
+# [Project 4 : Mass Shootings in the United States](https://github.com/roywong96/Shooting_Analysis/blob/main/ShootingAnalysis.ipynb)
 
 - Obtaining insight from the Data by MotherJones 
 - This research is focused on indiscriminate rampages in public places resulting in four or more victims killed by the attacker.
