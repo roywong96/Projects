@@ -6,7 +6,7 @@
 - Optimized Linear, Lasso, Bayesian Ridge and Random Forest Regressor using GridSearchCV to reach the best model.
 - A deep dive into data leakage to prevent target from leaking into models I chose for an accurate prediction.
 - Evaluated the models using Mean Absolute Error. 
-- Obtained the score R<sup>2</sup> for all the models as movie ratings are based on human sentiments and in these scenarios, people are just harder to predict.   
+- Obtained low R<sup>2</sup> for all the models as movie ratings are based on human sentiments and in these scenarios, people are just harder to predict.   
 
 ![](Images/movies_proj/actors.png)
 ![](Images/movies_proj/genres.png)
