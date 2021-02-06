@@ -5,7 +5,7 @@
 - Engineered features from the genres to quatify the value for each genre such as drama, action, thriller, comedy, romance and so forth.
 - Optimized Linear, Lasso, Bayesian Ridge and Random Forest Regressor using GridSearchCV to reach the best model.
 - A deep dive into data leakage to prevent target from leaking into models I chose for an accurate prediction.
-- Evaluated the models using Mean Absolute Error. 
+- Evaluated the models using Mean Absolute Error for better understanding and simplicty. 
 - Obtained low R<sup>2</sup> for all the models as movie ratings are based on human sentiments and in these scenarios, people are just harder to predict.   
 
 ![](Images/movies_proj/actors.png)
