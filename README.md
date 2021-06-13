@@ -29,7 +29,7 @@ Analysis conducted through a Model-Building Strategy to find the best fitting mo
 
 # [Project 3 : Term Deposit: Subscribe or Not Subscribe](https://github.com/roywong96/termDepositSubscription)
 
-- Data obtained from UCI Machine Learning Repository
+- Data obtained from UCI Machine Learning Repository Bank Dataset
 - Cleaned and Preprocessed the Dataset.
 - Performed Exploratory Data Analysis on the dataset to gain insights and trends in the data.
 - Perform One-Hot Encoding for the categorical variables to be used for modeling.
