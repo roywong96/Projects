@@ -39,8 +39,8 @@ Analysis conducted through a Model-Building Strategy to find the best fitting mo
 
 
 <p float="left">
-    <img src="Images/termDeposit/job_categories.png" width="50%" height="50%">
-    <img src="Images/termDeposit/age.png" width="50%" height="50%">
+    <img src="Images/termDeposit/job_categories.png" width="40%" height="40%">
+    <img src="Images/termDeposit/age.png" width="40%" height="40%">
 </p>
 
 
