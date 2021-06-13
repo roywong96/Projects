@@ -27,15 +27,15 @@ Analysis conducted through a Model-Building Strategy to find the best fitting mo
 ![](Images/TSA/TSA_forecast.png)
 
 
-# [Project 3 : Titanic: Machine Learning from Disaster](https://github.com/roywong96/Titanic/blob/main/Titanic.ipynb)
+# [Project 3 : Term Deposit: Subscribe or Not Subscribe](https://github.com/roywong96/termDepositSubscription)
 
-- Two sets of data (i.e. Train and Test set) concatenated and preprocessed before modeling 
-- Removed outliers, imputed any missing values and normalized the fare to obtain more accurate predictions.
-- Engineered Features such as Family Size, Title (i.e 'Fam_Size', 'Title').
-- Optimized and classified using Logistic Regression, K Neighbors Classifier, Support Vector Classifier, Gaussian Naive Bayes, Decision Tree Classifier, Random Forest Regressor.
-- Voting Classifier is also used which takes all of the inputs and averages the results.
-- Plot results using Bar graph of the Survivability of the passengers on the test data based on the trained.
-- Accurately predicted 77.9% of the test set.
+- Data obtained from UCI Machine Learning Repository
+- Cleaned and Preprocessed the Dataset.
+- Performed Exploratory Data Analysis on the dataset to gain insights and trends in the data.
+- Perform One-Hot Encoding for the categorical variables to be used for modeling.
+- Optimized K Nearest Neighbors, Bayesian Naive Bayes, Decision Tree and Random Forest Classifier using GridSearchCV to reach the best model.
+- A deep dive into data leakage to prevent target from leaking into models I chose for an accurate prediction.
+- Performance measure used to evaluate the models is the Area Under the Receiver Operating Characteristic (RUC) Curve due to class imbalance in the dataset.
 
 ![](Images/New_Survival.png)
 
