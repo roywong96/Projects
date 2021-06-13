@@ -37,8 +37,7 @@ Analysis conducted through a Model-Building Strategy to find the best fitting mo
 - A deep dive into data leakage to prevent target from leaking into models I chose for an accurate prediction.
 - Performance measure used to evaluate the models is the Area Under the Receiver Operating Characteristic (RUC) Curve due to class imbalance in the dataset.
 
-![](Images/termDeposit/job_categories.png)
-
+<img src="Images/termDeposit/job_categories.png" width="50%" height="50%">
 
 
 
