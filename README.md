@@ -37,8 +37,11 @@ Analysis conducted through a Model-Building Strategy to find the best fitting mo
 - A deep dive into data leakage to prevent target from leaking into models I chose for an accurate prediction.
 - Performance measure used to evaluate the models is the Area Under the Receiver Operating Characteristic (RUC) Curve due to class imbalance in the dataset.
 
-<img src="Images/termDeposit/job_categories.png" width="50%" height="50%">
 
+<p float="left">
+    <img src="Images/termDeposit/job_categories.png" width="50%" height="50%">
+    <img src="Images/termDeposit/age.png" width="50%" height="50%">
+</p>
 
 
 # [Project 4 : Mass Shootings in the United States](https://github.com/roywong96/Shooting_Analysis/blob/main/ShootingAnalysis.ipynb)
