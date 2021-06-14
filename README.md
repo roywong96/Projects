@@ -35,7 +35,7 @@ Analysis conducted through a Model-Building Strategy to find the best fitting mo
 - Perform One-Hot Encoding for the categorical variables to be used for modeling.
 - Optimized K Nearest Neighbors, Bayesian Naive Bayes, Decision Tree and Random Forest Classifier using GridSearchCV to reach the best model.
 - A deep dive into data leakage to prevent target from leaking into models I chose for an accurate prediction.
-- Performance measure used to evaluate the models is the Area Under the Receiver Operating Characteristic (RUC) Curve due to class imbalance in the dataset.
+- Performance measure used to evaluate the models is the Area Under the Receiver Operating Characteristic (ROC) Curve due to class imbalance in the dataset.
 
 
 <p float="left">
