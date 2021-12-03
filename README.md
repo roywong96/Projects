@@ -1,4 +1,9 @@
-# [Project 1 : IMBD Ratings Predictor](https://github.com/roywong96/imbd_proj)
+# [Project 1 : Action and Action Class Prediction](https://github.com/roywong96/cnn_action_prediction)
+
+![](Images/images_cnn/predictions.png)
+
+
+# [Project 2 : IMBD Ratings Predictor](https://github.com/roywong96/imbd_proj)
 
 - Created a tool that predicts movie ratings from the imbd website
 - Scraped over 2000 movies from imbd website using Python and Beautiful Soup
@@ -12,7 +17,7 @@
 ![](Images/movies_proj/genres.png)
 
 
-# [Project 2 : Time-Series Analysis Retail Sales for Recreational Goods](https://github.com/roywong96/RetailSales)
+# [Project 3 : Time-Series Analysis Retail Sales for Recreational Goods](https://github.com/roywong96/RetailSales)
 
 Analysis conducted through a Model-Building Strategy to find the best fitting model for the data of monthly retail sales in millions of dollars for recreational goods in New Zealand from 1995 to 2010. Forecast for monthly retail sales for recreational goods in New Zealand for the next 10 units of time will be given at the end of the report. 
 
@@ -27,7 +32,7 @@ Analysis conducted through a Model-Building Strategy to find the best fitting mo
 ![](Images/TSA/TSA_forecast.png)
 
 
-# [Project 3 : Term Deposit: Subscribe or Not Subscribe](https://github.com/roywong96/termDepositSubscription)
+# [Project 4 : Term Deposit: Subscribe or Not Subscribe](https://github.com/roywong96/termDepositSubscription)
 
 - Data obtained from UCI Machine Learning Repository Bank Dataset
 - Cleaned and Preprocessed the Dataset.
@@ -44,24 +49,6 @@ Analysis conducted through a Model-Building Strategy to find the best fitting mo
 </p>
 
 
-# [Project 4 : Mass Shootings in the United States](https://github.com/roywong96/Shooting_Analysis/blob/main/ShootingAnalysis.ipynb)
 
-- Obtaining insight from the Data by MotherJones 
-- This research is focused on indiscriminate rampages in public places resulting in four or more victims killed by the attacker.
-- Seek to identify the cause of such Mass Killing in the USA.
-- Several question included in the analysis
-    - Are mass shootings on the rise?
-    - What state/city had the most victims from mass shootings?
-    - which states have the highest number of mass shootings?
-    - Which year has the most mass shootings?
-    - Which year did deadliest shootings in US occured and where?
-    - Are most mass killers males or females?
-    - Were the weapons used in shootings obtained legally?
-    - What are the age of the youngest / oldest shooter?
-    - What are the majority race of the shooters?
-    - How many school shootings have been since 1982?
-- A more visual slide show presentation done in [Slidy R](https://rpubs.com/roywong96/684364).
-
-![](Images/Casualties.png)
 
 
