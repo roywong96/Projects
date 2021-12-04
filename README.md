@@ -21,8 +21,11 @@
 - Evaluated the models using Mean Absolute Error for better understanding and simplicty. 
 - Obtained low R<sup>2</sup> for all the models as movie ratings are based on human sentiments and in these scenarios, people are just harder to predict.   
 
-![](Images/movies_proj/actors.png)
-![](Images/movies_proj/genres.png)
+
+<p float="left">
+    <img src="Images/movies_proj/actors.png" width="40%" height="40%">
+    <img src="Images/movies_proj/genres.png" width="50%" height="50%">
+</p>
 
 
 # [Project 3 : Time-Series Analysis Retail Sales for Recreational Goods](https://github.com/roywong96/RetailSales)
