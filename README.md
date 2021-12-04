@@ -23,8 +23,8 @@
 
 
 <p float="left">
-    <img src="Images/movies_proj/actors.png" width="70%" height="70%"/>
-    <img src="Images/movies_proj/genres.png" width="75%" height="75%"/>
+    <img src="Images/movies_proj/actors.png" width="40%" height="40%"/>
+    <img src="Images/movies_proj/genres.png" width="45%" height="45%"/>
 </p>
 
 
