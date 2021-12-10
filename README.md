@@ -46,6 +46,8 @@ Analysis conducted through a Model-Building Strategy to find the best fitting mo
 # [Project 4 : Term Deposit: Subscribe or Not Subscribe](https://github.com/roywong96/termDepositSubscription)
 
 - Data obtained from UCI Machine Learning Repository Bank Dataset
+- The objective of this project is to compare and fit various binary classifiers models in order to predict whether a client will subscribe to the term deposit based on the most relevant descriptive features.
+- Goal is to identify the optimal model based on the best area under ROC curve metrics and allow the deployment of the most accurate model, allowing the bank to target the potential customer in their marketing campaign effectively.
 - Cleaned and Preprocessed the Dataset.
 - Performed Exploratory Data Analysis on the dataset to gain insights and trends in the data.
 - Perform One-Hot Encoding for the categorical variables to be used for modeling.
